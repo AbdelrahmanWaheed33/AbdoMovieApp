@@ -16,7 +16,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
+deploy link : https://625b53a8d04b9a685b165924--enchanting-paprenjak-cc134e.netlify.app/
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
 ## Special Directories
